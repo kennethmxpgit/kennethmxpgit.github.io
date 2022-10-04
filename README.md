@@ -1,6 +1,7 @@
 # Intro
-A simple personal site using react, mui, and tsparticles
-[title](https://www.example.com)
+A website to link my projects. Uses react, mui, and tsparticles for the background
+
+Check the live site [here](https://kennethmxpgit.github.io/personal-site/)
 
 ## Usage
 1. Fork the project into your device
