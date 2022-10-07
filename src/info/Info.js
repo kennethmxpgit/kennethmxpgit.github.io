@@ -11,7 +11,7 @@ export let colors = ["rgb(0, 251, 255)", "rgb(202, 225, 86)"];
 export const info = {
     firstName: "Kenneth",
     lastName: "Purwantoro",
-    initials: "kmp", 
+    initials: "kp", 
     position: "Welcome to my site!",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
@@ -85,7 +85,7 @@ export const info = {
             title: "Where's Waldo?",
             details:`(WIP) Classic. Find Waldo and his gang in this web app`,
             details2:'Javascript, Firebase',
-            live: "https://wheres-waldo-74d8d.web.app/",
+            live: "https://kennethmxpgit.github.io/wheres-waldo/",
             source: "https://github.com/kennethmxpgit/wheres-waldo",
             image: mock2,
         },
