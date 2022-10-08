@@ -13,7 +13,8 @@ function PortfolioBlock(props) {
             padding:"1%",
             }}>{details}</Box>
          <Box sx={{
-            fontSize:'1rem',
+            fontSize:'0.8rem',
+            fontStyle:'italic',
             padding:"1%",
             }}>{details2}</Box>
          <Box className={'portfolio'} display={'flex'} flexDirection={'column'} gap={'0.5rem'}

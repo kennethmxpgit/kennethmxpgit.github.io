@@ -84,15 +84,15 @@ export const info = {
         {
             title: "Where's Waldo?",
             details:`Find Waldo and his gang in this React based web game`,
-            details2:'Javascript, Firebase',
+            details2:'React, MUI, Firebase',
             live: "https://kennethmxpgit.github.io/wheres-waldo/",
             source: "https://github.com/kennethmxpgit/wheres-waldo",
             image: mock2,
         },
         {
-            title: "Memory Card Game",
+            title: "Memory Card",
             details:`Marvel-themed memory card game using React`,
-            details2:`React JS`,
+            details2:`React`,
             live: "https://kennethmxpgit.github.io/memory-card/",
             source: "https://github.com/kennethmxpgit/memory-card",
             image: mock3
@@ -105,12 +105,12 @@ export const info = {
             source: "https://github.com/kennethmxpgit/odin-tictactoe",
             image: mock4
         },
-        {
-            title: "Calculator",
-            details : "A simple calculator. But is it?",
-            live: "https://kennethmxpgit.github.io/odin-calculator/",
-            source: "https://github.com/kennethmxpgit/odin-calculator",
-            image: mock5
-        }
+        // {
+        //     title: "Calculator",
+        //     details : "A simple calculator. But is it?",
+        //     live: "https://kennethmxpgit.github.io/odin-calculator/",
+        //     source: "https://github.com/kennethmxpgit/odin-calculator",
+        //     image: mock5
+        // }
     ]
 }
