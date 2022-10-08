@@ -83,7 +83,7 @@ export const info = {
 
         {
             title: "Where's Waldo?",
-            details:`(WIP) Classic. Find Waldo and his gang in this web app`,
+            details:`Find Waldo and his gang in this React based web game`,
             details2:'Javascript, Firebase',
             live: "https://kennethmxpgit.github.io/wheres-waldo/",
             source: "https://github.com/kennethmxpgit/wheres-waldo",
